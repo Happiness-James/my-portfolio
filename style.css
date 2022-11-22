@@ -15,6 +15,9 @@ nav a{
 #text-home{
 width: 60vw;
 }
+#text-name{
+    color: rgba(0,163,172,255);
+}
 #img-home{
     width: 40vw;
     height: 60vh;
@@ -38,8 +41,62 @@ width: 60vw;
     margin-top: 10%;
 }
 #home-text{
-    font-size: 80px;
+    font-size: 60px;
 }
 #text-p{
     font-size: 20px;
+}
+#About{
+    background-color: black;
+    color: white;
+    
+}
+#about{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+#happy{
+    float: left;
+    font-size: x-large;
+}
+#jamo{
+    font-size: x-large;
+    color: #ac7000;
+}
+#About-p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    color: white;
+    font-size: large;
+}
+#Projects{
+    background-color: black;
+    color: white;
+}
+.service{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.service>div{
+    width: 300px;
+    margin: 5px;
+    padding: 20px;
+    line-height: 30px; 
+    border-radius: 10px;
+    
+}
+.service2{
+    background-color: #00a792;
+    color: white;
+}
+.service1{
+background-color: #ac7000;
+
+}
+.service3{
+    background-color: #ac7000;
 }
