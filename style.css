@@ -10,6 +10,7 @@ nav a{
     padding-inline: 2%;
     text-decoration: none;
     color: rgba(0,163,172,255);
+    font-size: 30px;
 
 }
 #text-home{
@@ -41,7 +42,7 @@ width: 60vw;
     margin-top: 10%;
 }
 #home-text{
-    font-size: 60px;
+    font-size: 50px;
 }
 #text-p{
     font-size: 20px;
@@ -53,15 +54,15 @@ width: 60vw;
 }
 #about{
     color: white;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
 }
 #happy{
     float: left;
-    font-size: x-large;
+    font-size: xx-large;
 }
 #jamo{
-    font-size: x-large;
+    font-size: xx-large;
     color: #ac7000;
 }
 #About-p{
@@ -99,4 +100,8 @@ background-color: #ac7000;
 }
 .service3{
     background-color: #ac7000;
+}
+#contact h1{
+    font-size: 50px;
+    text-align: center;
 }
