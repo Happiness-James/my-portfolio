@@ -3,15 +3,20 @@
     padding: 40px 10%;
     
 }
-nav{
+/* nav{
     text-align: center;
 }
-nav a{
+*/
+.navbar-nav a{
     padding-inline: 2%;
     text-decoration: none;
     color: rgba(0,163,172,255);
     font-size: 30px;
 
+} 
+.navbar-nav{
+    position: relative;
+    left: 70%;
 }
 #text-home{
 width: 60vw;
@@ -57,8 +62,8 @@ width: 60vw;
     font-size: 50px;
     text-align: center;
 }
-#happy{
-    float: left;
+.navbar-brand{
+    color: rgba(0,163,172,255);
     font-size: xx-large;
 }
 #jamo{
@@ -104,4 +109,7 @@ background-color: #ac7000;
 #contact h1{
     font-size: 50px;
     text-align: center;
+}
+#learnmore{
+    color: white;
 }
